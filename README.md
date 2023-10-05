@@ -7,7 +7,7 @@
 <p align="center">Standalone Personalizado com Toque Sombrio e Recursos Exclusivos</p>
 
 <p align="center">
-  <a href="[https://qstand-dark.com/download](https://github.com/Qhnk/Qstand-dark/raw/main/Dark.rar)">
+  <a href="https://github.com/Qhnk/Qstand-dark/raw/main/Dark.rar">
     <img src="https://img.shields.io/badge/Baixar-%20Qstand%20Dark-brightgreen" alt="Download Qstand Dark">
   </a>
   <a href="https://github.com/Qhnk/qstand-dark/issues">
@@ -29,7 +29,7 @@ O Qstand Dark é uma versão personalizada do Darkmice, um jogo online amado por
 
 ### Como Começar
 
-1. **Baixar o Jogo:** [Link para Download]([https://qstand-dark.com/download](https://github.com/Qhnk/Qstand-dark/raw/main/Dark.rar))
+1. **Baixar o Jogo:** [Link para Download](https://github.com/Qhnk/Qstand-dark/raw/main/Dark.rar)
 
 2. **Instalar o Jogo:** Siga as instruções de instalação fornecidas no site oficial.
 
