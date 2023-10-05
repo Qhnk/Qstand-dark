@@ -33,7 +33,7 @@ O Qstand Dark é uma versão personalizada do Darkmice, um jogo online amado por
 
 2. **Instalar o Jogo:** Siga as instruções de instalação fornecidas no site oficial.
 
-3. **Iniciar o Jogo:** Abra o Qstand Dark e faça login na sua conta Transformice.
+3. **Iniciar o Jogo:** Abra o Qstand Dark e faça login na sua conta Darkmice.
 
 4. **Explorar e Divertir-se:** Explore os novos recursos, personalize seu personagem e divirta-se jogando!
 
