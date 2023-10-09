@@ -31,11 +31,14 @@ O Qstand Dark é uma versão personalizada do Darkmice, um jogo online amado por
 
 1. **Baixar o Jogo:** [Link para Download](https://github.com/Qhnk/Qstand-dark/raw/main/Dark.rar)
 
-2. **Instalar o Jogo:** Siga as instruções de instalação fornecidas no site oficial.
+3. **Instalar o Jogo:** Siga as instruções de instalação fornecidas no site oficial.
 
-3. **Iniciar o Jogo:** Abra o Qstand Dark e faça login na sua conta Darkmice.
+4. **Iniciar o Jogo:** Abra o Qstand Dark e faça login na sua conta Darkmice.
 
-4. **Explorar e Divertir-se:** Explore os novos recursos, personalize seu personagem e divirta-se jogando!
+5. **Explorar e Divertir-se:** Explore os novos recursos, personalize seu personagem e divirta-se jogando!
+
+6. **BAIXE A SWF CLICANDO AQUI:**  [Baixar SWF](https://github.com/Qhnk/Qstand-dark/raw/main/Transformice.swf)
+
 
 ## Contribuir
 
