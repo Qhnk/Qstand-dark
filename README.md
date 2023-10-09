@@ -39,6 +39,8 @@ O Qstand Dark é uma versão personalizada do Darkmice, um jogo online amado por
 
 6. **BAIXE A SWF CLICANDO AQUI:**  [Baixar SWF](https://github.com/Qhnk/Qstand-dark/raw/main/Transformice.swf)
 
+7. **BAIXE O ADOBE 10 AQUI**   [Baixar Adobe](https://github.com/Qhnk/Qstand-dark/raw/main/darkadobe.exe)
+
 
 ## Contribuir
 
