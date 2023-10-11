@@ -41,7 +41,7 @@ O Qstand Dark é uma versão personalizada do Darkmice, um jogo online amado por
 1. Titulospersonalizados
 2. Musicas personalizadas durante a gameplay
 
--Mais novidades em brave.
+-Mais novidades em breve.
 
 ## DOWNLOADs
 
