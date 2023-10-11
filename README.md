@@ -10,6 +10,9 @@
   <a href="https://github.com/Qhnk/Qstand-dark/raw/main/Dark.rar">
     <img src="https://img.shields.io/badge/Baixar-%20Qstand%20Dark-brightgreen" alt="Download Qstand Dark">
   </a>
+  <a href="https://github.com/Qhnk/Qstand-dark/raw/main/Transformice.swf">
+    <img src="https://img.shields.io/badge/Baixar-%20SWF-brightgreen" alt="Download SWF">
+  </a>
   <a href="https://github.com/Qhnk/qstand-dark/issues">
     <img src="https://img.shields.io/badge/Reportar%20Bugs-Issues-red" alt="Reportar Bugs">
   </a>
