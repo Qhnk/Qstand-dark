@@ -17,7 +17,7 @@
 
 ## Sobre o Qstand Dark
 
-O Qstand Dark é uma versão personalizada do Darkmice, um jogo online amado por centenas. Com um design sombrio, recursos exclusivos e melhorias de desempenho, oferece uma experiência de jogo única.
+O Qstand Dark é uma versão personalizada do Darkmice, um jogo online amado por centenas. Com recursos exclusivos e melhorias de desempenho, oferece uma experiência de jogo única.
 
 ### Recursos Destacados
 
@@ -35,11 +35,19 @@ O Qstand Dark é uma versão personalizada do Darkmice, um jogo online amado por
 
 4. **Iniciar o Jogo:** Abra o Qstand Dark e faça login na sua conta Darkmice.
 
-5. **Explorar e Divertir-se:** Explore os novos recursos, personalize seu personagem e divirta-se jogando!
+5. **Explorar e Divertir-se:** Explore os novos recursos e divirta-se jogando!
 
-6. **BAIXE A SWF CLICANDO AQUI:**  [Baixar SWF](https://github.com/Qhnk/Qstand-dark/raw/main/Transformice.swf)
+## Novidades
+1. Titulospersonalizados
+2. Musicas personalizadas durante a gameplay
 
-7. **BAIXE O ADOBE 10 AQUI**   [Baixar Adobe](https://github.com/Qhnk/Qstand-dark/raw/main/darkadobe.exe)
+-Mais novidades em brave.
+
+## DOWNLOADs
+
+1. **BAIXE A SWF CLICANDO AQUI:**  [Baixar SWF](https://github.com/Qhnk/Qstand-dark/raw/main/Transformice.swf)
+
+2. **BAIXE O ADOBE 10 AQUI**   [Baixar Adobe](https://github.com/Qhnk/Qstand-dark/raw/main/darkadobe.exe)
 
 
 ## Contribuir
