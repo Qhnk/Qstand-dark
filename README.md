@@ -7,7 +7,7 @@
 <p align="center" style="font-size: 18px;">Sua Experiência de Jogo Personalizada</p>
 
 <p align="center">
-  <a href="https://seulinkparaoDiscord">
+  <a href="https://discord.com/invite/GYBHYkkW">
     <img src="https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg" alt="Participe do nosso Discord" width="150">
   </a>
 </p>
@@ -28,7 +28,7 @@ O Qstand Dark é a escolha perfeita para jogadores que buscam uma experiência �
 
 Para adquirir o Qstand Dark e personalizar sua experiência, siga estas etapas:
 
-1. **Participe do nosso servidor Discord:** [Clique aqui para entrar no servidor](https://seulinkparaoDiscord).
+1. **Participe do nosso servidor Discord:** [Clique aqui para entrar no servidor](https://discord.com/invite/GYBHYkkW).
 
 2. Após entrar no servidor, entre em contato com nossa equipe para adquirir o Qstand Dark.
 
