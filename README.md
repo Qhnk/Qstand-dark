@@ -1,38 +1,38 @@
-<p align="center">
+<div align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/260471325503110573/2BCB51FCF6861555682B65612FD7214E24C2CC80/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Qstand Dark Logo" width="200">
-</p>
+</div>
 
-<h1 align="center">Qstand Dark - Personalize Sua Jornada no Darkmice</h1>
+# Qstand Dark - Sua Jornada Personalizada
 
-<p align="center">Eleve sua experiência de jogo com o Standalone Qstand Dark!</p>
+## Eleve sua experiência de jogo em Darkmice com o Qstand Dark!
 
-<p align="center">
-  <a href="">Adquirir Qstand Dark</a>
-</p>
+[![Adquirir Qstand Dark](https://img.shields.io/badge/Adquirir-%20Qstand%20Dark-brightgreen)](https://seulinkparaadquirir)
 
-## Por Que Escolher o Qstand Dark
+[![Participe do nosso Discord](https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://seulinkparaoDiscord)
 
-O Qstand Dark é a escolha perfeita para jogadores que desejam uma experiência personalizada. Aqui estão alguns motivos para adquirir o seu:
+### Por Que Escolher o Qstand Dark
 
-- **Personalização Total:** Crie títulos únicos e uma trilha sonora exclusiva para suas aventuras no Darkmice.
+O Qstand Dark é a escolha perfeita para jogadores que buscam uma experiência única. Aqui estão alguns motivos para adquirir:
 
-- **Ping Melhorado:** Desfrute de uma conexão mais rápida e estável para uma jogabilidade sem interrupções.
+- **Personalização Total:** Crie títulos exclusivos e trilhas sonoras personalizadas para suas aventuras no Darkmice.
 
-- **Comandos Exclusivos:** Em desenvolvimento.
+- **Ping Melhorado:** Desfrute de uma conexão rápida e estável para jogabilidade sem interrupções.
 
-- **Desempenho Otimizado:** Experimente um jogo mais suave e responsivo com melhorias de desempenho.
+- **Comandos Exclusivos:** Em desenvolvimento para aprimorar sua experiência.
 
-## Como Adquirir
+- **Desempenho Otimizado:** Tenha um jogo mais suave e responsivo com melhorias de desempenho.
 
-É simples adquirir o Qstand Dark e personalizar sua experiência de jogo:
+### Como Adquirir
+
+Adquirir o Qstand Dark e personalizar sua experiência é fácil:
 
 1. **Clique no botão "Adquirir Qstand Dark" acima para entrar em contato conosco.
 
-2. Após o pagamento, escolha os títulos e a Playlist que você deseja personalizar.
+2. Após o pagamento, escolha os títulos e a Playlist que deseja personalizar.
 
-3. Abra o Qstand Dark, faça login na sua conta e comece a jogar.
+3. Abra o Qstand Dark, faça login na sua conta e comece a jogar com seu toque pessoal.
 
-## Preços e Pacotes
+### Preços e Pacotes
 
 - **Qstand com Título Personalizado:** Por apenas R$30, tenha títulos personalizados à sua escolha.
 
