@@ -2,11 +2,9 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/260471325503110573/2BCB51FCF6861555682B65612FD7214E24C2CC80/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Qstand Dark Logo" width="200">
 </div>
 
-# Qstand Dark - Sua Jornada Personalizada
+# Qstand Dark - Personalize Sua Jornada
 
-## Eleve sua experiência de jogo em Darkmice com o Qstand Dark!
-
-[![Adquirir Qstand Dark](https://img.shields.io/badge/Adquirir-%20Qstand%20Dark-brightgreen)](https://seulinkparaadquirir)
+## Leve sua experiência no Darkmice para outro nível com o Qstand Dark!
 
 [![Participe do nosso Discord](https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://seulinkparaoDiscord)
 
@@ -24,13 +22,15 @@ O Qstand Dark é a escolha perfeita para jogadores que buscam uma experiência �
 
 ### Como Adquirir
 
-Adquirir o Qstand Dark e personalizar sua experiência é fácil:
+Para adquirir o Qstand Dark e personalizar sua experiência, siga estas etapas:
 
-1. **Clique no botão "Adquirir Qstand Dark" acima para entrar em contato conosco.
+1. **Participe do nosso servidor Discord:** [Clique aqui para entrar no servidor](https://seulinkparaoDiscord).
 
-2. Após o pagamento, escolha os títulos e a Playlist que deseja personalizar.
+2. Após entrar no servidor, entre em contato com nossa equipe para adquirir o Qstand Dark.
 
-3. Abra o Qstand Dark, faça login na sua conta e comece a jogar com seu toque pessoal.
+3. Escolha os títulos e a Playlist que deseja personalizar.
+
+4. Abra o Qstand Dark, faça login na sua conta e comece a jogar com seu toque pessoal.
 
 ### Preços e Pacotes
 
@@ -38,4 +38,4 @@ Adquirir o Qstand Dark e personalizar sua experiência é fácil:
 
 - **Qstand com Títulos e Playlist Personalizada:** Por apenas R$50, obtenha títulos exclusivos e uma trilha sonora personalizada para sua gameplay. Além disso, não é necessário manter o navegador aberto para ouvir música, o que melhora significativamente o desempenho.
 
-Não perca a oportunidade de aprimorar sua experiência no Darkmice com o Qstand Dark. Adquira agora e mergulhe no mundo da personalização de jogos! 🌟
+Não perca a oportunidade de aprimorar sua experiência no Darkmice com o Qstand Dark. Entre no nosso servidor Discord e adquira agora! 🌟
