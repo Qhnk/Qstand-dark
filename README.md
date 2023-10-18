@@ -37,9 +37,11 @@ Siga estas etapas para entrar no mundo do Qstand Dark e elevar sua experiência 
 ## **Preços e Pacote Mensal**
 
 - **Qstand com Título Personalizado:** Apenas R$30 para ter um título único que fará você se destacar no Darkmice.
-   Mensal: $22,99 reais, atualize seus titulos sempre que quiser.
+
+  Mensal: $22,99 reais, atualize seus titulos sempre que quiser.
 
 - **Qstand com Títulos e Playlist Personalizada:** Por apenas R$50, obtenha títulos exclusivos e uma trilha sonora personalizada para sua gameplay. E adeus ao incômodo de manter o navegador aberto para música.
-   Mensal: R$44,99 reais, atualize seus titulos sempre que quiser e a Playlist até 3x no mês.
+
+  Mensal: R$44,99 reais, atualize seus titulos sempre que quiser e a Playlist até 3x no mês.
 
 Transforme sua experiência no Darkmice com o Qstand Dark. Não perca esta oportunidade. Entre no nosso servidor Discord e adquira agora! 🌟
