@@ -2,13 +2,17 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/260471325503110573/2BCB51FCF6861555682B65612FD7214E24C2CC80/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Qstand Dark Logo" width="200">
 </div>
 
-# Qstand Dark - Personalize Sua Jornada
+<h1 align="center" style="font-size: 32px; font-weight: bold;">Qstand Dark</h1>
 
-## Leve sua experiência no Darkmice para outro nível com o Qstand Dark!
+<p align="center" style="font-size: 18px;">Sua Experiência de Jogo Personalizada</p>
 
-[![Participe do nosso Discord](https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://seulinkparaoDiscord)
+<p align="center">
+  <a href="https://seulinkparaoDiscord">
+    <img src="https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg" alt="Participe do nosso Discord" width="150">
+  </a>
+</p>
 
-### Por Que Escolher o Qstand Dark
+## Por Que Escolher o Qstand Dark
 
 O Qstand Dark é a escolha perfeita para jogadores que buscam uma experiência única. Aqui estão alguns motivos para adquirir:
 
@@ -20,7 +24,7 @@ O Qstand Dark é a escolha perfeita para jogadores que buscam uma experiência �
 
 - **Desempenho Otimizado:** Tenha um jogo mais suave e responsivo com melhorias de desempenho.
 
-### Como Adquirir
+## Como Adquirir
 
 Para adquirir o Qstand Dark e personalizar sua experiência, siga estas etapas:
 
@@ -32,7 +36,7 @@ Para adquirir o Qstand Dark e personalizar sua experiência, siga estas etapas:
 
 4. Abra o Qstand Dark, faça login na sua conta e comece a jogar com seu toque pessoal.
 
-### Preços e Pacotes
+## Preços e Pacotes
 
 - **Qstand com Título Personalizado:** Por apenas R$30, tenha títulos personalizados à sua escolha.
 
