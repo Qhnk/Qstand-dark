@@ -2,7 +2,7 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/260471325503110573/2BCB51FCF6861555682B65612FD7214E24C2CC80/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Qstand Dark Logo" width="200">
 </div>
 
-# Qstand Dark - Standalone Privado
+  # Qstand Dark - Standalone Privado
 
 <div align="center">
   <a href="https://discord.com/invite/GYBHYkkW">
@@ -42,4 +42,4 @@ Siga estas etapas para entrar no mundo do Qstand Dark e elevar sua experiência 
 - **Qstand com Títulos e Playlist Personalizada:** Por apenas R$50, obtenha títulos exclusivos e uma trilha sonora personalizada para sua gameplay. E adeus ao incômodo de manter o navegador aberto para música.
    Mensal: R$44,99 reais, atualize seus titulos sempre que quiser e a Playlist até 3x no mês.
 
-Transforme sua experiência no Darkmice com o Qstand Dark. Não perca esta oportunidade de brilhar. Entre no nosso servidor Discord e adquira agora! 🌟
+Transforme sua experiência no Darkmice com o Qstand Dark. Não perca esta oportunidade. Entre no nosso servidor Discord e adquira agora! 🌟
