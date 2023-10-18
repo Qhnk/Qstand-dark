@@ -2,9 +2,9 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/260471325503110573/2BCB51FCF6861555682B65612FD7214E24C2CC80/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Qstand Dark Logo" width="200">
 </div>
 
-<h1 align="center" style="font-size: 32px; font-weight: bold;">Qstand Dark</h1>
+<h1 align="center" style="font-size: 36px; font-weight: bold; color: #2c3e50;">Qstand Dark</h1>
 
-<p align="center" style="font-size: 18px;">Sua Experiência de Jogo Personalizada</p>
+<p align="center" style="font-size: 18px; color: #7f8c8d;">Elevando Sua Experiência de Jogo</p>
 
 <p align="center">
   <a href="https://discord.com/invite/GYBHYkkW">
