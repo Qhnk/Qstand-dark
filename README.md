@@ -31,7 +31,7 @@ Siga estas etapas para entrar no mundo do Qstand Dark e elevar sua experiência 
 ## Preços e Pacote Mensal
 
 - **Qstand Basic:**  Por apenas R$20,00 você obtém ele permanentemente na versão Básica
-- **Qstand Premium:** Em desenvolvimento.
+- **Qstand Premium:** Em desenvolvimento. 
 
 <div align="center">
   <a href="https://github.com/Qhnk/Qstand-dark/raw/main/QstandX.exe" download>
