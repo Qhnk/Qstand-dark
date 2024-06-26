@@ -35,7 +35,7 @@ Siga estas etapas para entrar no mundo do Qstand Dark e elevar sua experiência 
 
 <div align="center">
   <a href="https://github.com/Qhnk/Qstand-dark/raw/main/QstandX.exe" download>
-    <button style="background-color: #4CAF50; /* Green */
+    <button style="background-color: #007BFF; /* Blue */
                     border: none;
                     color: white;
                     padding: 15px 32px;
@@ -43,11 +43,11 @@ Siga estas etapas para entrar no mundo do Qstand Dark e elevar sua experiência 
                     text-decoration: none;
                     display: inline-block;
                     font-size: 16px;
-                    margin: 4px 2px;
+                    margin: 10px;
                     cursor: pointer;
-                    border-radius: 4px;
-                    box-shadow: 0 4px #357a38;
-                    transition: background-color 0.3s ease;">
+                    border-radius: 6px;
+                    transition: background-color 0.3s ease;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
       <strong>Download Qstand Dark</strong>
     </button>
   </a>
