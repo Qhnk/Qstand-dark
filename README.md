@@ -24,18 +24,18 @@ O Qstand Dark é mais do que um Standalone - é a chave para desbloquear um Dark
 Siga estas etapas para entrar no mundo do Qstand Dark e elevar sua experiência a um nível superior:
 
 1. **Participe do nosso servidor Discord:** [Clique aqui para entrar](https://discord.com/invite/GYBHYkkW).
-2. Após seguir as instruções e efetuar o pagamento seu standalone ficará liberado em até 24 horas.
+2. Após seguir as instruções e efetuar o pagamento, seu standalone ficará liberado em até 24 horas.
 3. Playlist que reflete sua personalidade.
 4. Abra o Qstand Dark, faça login na sua conta Darkmice e divirta-se.
 
 ## Preços e Pacote Mensal
 
-- **Qstand Basic:**  Por apenas R$20,00 você obtém ele permanentemente na versão Básica
-- **Qstand Premium:** Em desenvolvimento. 
+- **Qstand Basic:**  Por apenas R$20,00 você obtém ele permanentemente na versão Básica.
+- **Qstand Premium:** Em desenvolvimento.
 
 <div align="center">
   <a href="https://github.com/Qhnk/Qstand-dark/raw/main/QstandX.exe" download>
-    <button style="background-color: #007BFF; /* Blue */
+    <button style="background-color: #1a73e8; /* Google Blue */
                     border: none;
                     color: white;
                     padding: 15px 32px;
@@ -45,9 +45,9 @@ Siga estas etapas para entrar no mundo do Qstand Dark e elevar sua experiência 
                     font-size: 16px;
                     margin: 10px;
                     cursor: pointer;
-                    border-radius: 6px;
-                    transition: background-color 0.3s ease;
-                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                    transition: background-color 0.3s ease;">
       <strong>Download Qstand Dark</strong>
     </button>
   </a>
