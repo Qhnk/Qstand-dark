@@ -38,17 +38,17 @@ Siga estas etapas para entrar no mundo do Qstand Dark e elevar sua experiência 
     <button style="background-color: #1a73e8; /* Google Blue */
                     border: none;
                     color: white;
-                    padding: 15px 32px;
+                    padding: 16px 40px;
                     text-align: center;
                     text-decoration: none;
                     display: inline-block;
-                    font-size: 16px;
-                    margin: 10px;
-                    cursor: pointer;
-                    border-radius: 8px;
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin: 15px;
+                    border-radius: 10px;
                     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
                     transition: background-color 0.3s ease;">
-      <strong>Download Qstand Dark</strong>
+      Download Qstand Dark
     </button>
   </a>
 </div>
